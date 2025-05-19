@@ -285,9 +285,9 @@ jeepney==0.8.0 \
     # via
     #   keyring
     #   secretstorage
-jinja2==3.1.4 \
-    --hash=sha256:4a3aee7acbbe7303aede8e9648d13b8bf88a429282aa6122a993f0ac800cb369 \
-    --hash=sha256:bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d
+jinja2==3.1.6 \
+    --hash=sha256:0137fb05990d35f1275a587e9aee6d56da821fc83491a0fb838183be43f66d6d \
+    --hash=sha256:85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67
     # via gcp-releasetool
 keyring==25.2.1 \
     --hash=sha256:2458681cdefc0dbc0b7eb6cf75d0b98e59f9ad9b2d4edd319d18f68bdca95e50 \
@@ -517,9 +517,9 @@ urllib3==2.2.2 \
     # via
     #   requests
     #   twine
-virtualenv==20.26.3 \
-    --hash=sha256:4c43a2a236279d9ea36a0d76f98d84bd6ca94ac4e0f4a3b9d46d05e10fea542a \
-    --hash=sha256:8cc4a31139e796e9a7de2cd5cf2489de1217193116a8fd42328f1bd65f434589
+virtualenv==20.26.6 \
+    --hash=sha256:280aede09a2a5c317e409a00102e7077c6432c5a38f0ef938e643805a7ad2c48 \
+    --hash=sha256:7345cc5b25405607a624d8418154577459c3e0277f5466dd79c49d5e492995f2
     # via nox
 wheel==0.43.0 \
     --hash=sha256:465ef92c69fa5c5da2d1cf8ac40559a8c940886afcef87dcf14b9470862f1d85 \
@@ -531,7 +531,7 @@ zipp==3.19.2 \
     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==70.2.0 \
-    --hash=sha256:b8b8060bb426838fbe942479c90296ce976249451118ef566a5a0b7d8b78fb05 \
-    --hash=sha256:bd63e505105011b25c3c11f753f7e3b8465ea739efddaccef8f0efac2137bac1
+setuptools==78.1.1 \
+    --hash=sha256:c3a9c4211ff4c309edb8b8c4f1cbfa7ae324c4ba9f91ff254e3d305b9fd54561 \
+    --hash=sha256:fcc17fd9cd898242f6b4adfaca46137a9edef687f43e6f78469692a5e70d851d
     # via -r requirements.in
